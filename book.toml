@@ -1,7 +1,8 @@
 [book]
 authors = ["reth Core Contributors"]
 language = "en"
-multilingual = false
+multilingual = true
+
 src = "book"
 title = "reth Book"
 description = "A book on all things Reth"
